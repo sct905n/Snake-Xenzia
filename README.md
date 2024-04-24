@@ -12,7 +12,7 @@
 
 -Create "Snake tail" class to gain more size as it "eats" "Food"
 
--Create "Food" for the "Snake" that spans randomly on the "Caro"
+-Create "Food" for the "Snake" that spawns randomly on the "Caro"
 
 -Create main functions and scoring system
 
@@ -58,7 +58,7 @@ https://github.com/sct905n/Snake-Xenzia/assets/167898938/7bf22ada-d3e6-4fd0-b74a
 
 -Tạo lớp "Snake tail" (Đuôi rắn) để tăng kích thước khi "ăn" "Thức ăn"
 
--Tạo "Thức ăn" cho "Snake" trải dài ngẫu nhiên trên "Caro"
+-Tạo "Thức ăn" cho "Snake" spawn ngẫu nhiên trên "Caro"
 
 -Tạo các chức năng chính và hệ thống tính điểm
 
